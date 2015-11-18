@@ -4,8 +4,6 @@ This repo contains my solution to the Getting and Cleaning Data Peer Assessment 
 
 Simply execute "run_analysis.R". If the data is not on the same folder, the script automatically downloads and extract it in the right place. If you already have downloaded the data, extract the zip file inside the same folder than the script. Just to be clear, the relative path compared to "run_analysis.R" of the "activity_labels.txt" file should be "UCI HAR Dataset/activity_labels.txt" for instance.
 
-The scripts have been tested on MAC OS X. Not on windows or linux.
-
 The exercise's description
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
